@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![image](![image](https://github.com/victoriajquinto/victoriajquinto/assets/96553804/fa44e3c0-aad4-4b7d-b8c1-f0fd7a26ba96)
-)
+![image](https://github.com/victoriajquinto/victoriajquinto/assets/96553804/ffe4804c-007d-4e06-8d9d-bf9a5f8151f3)
+
 
 <!--
 **victoriajquinto/victoriajquinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
