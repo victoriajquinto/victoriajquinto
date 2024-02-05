@@ -8,7 +8,7 @@
 ### <div align="center">A school psychologist turned software engineer</div>
 
 
-- 🌱 I’m currently learning: python
+- 🌱 I’m currently learning: nextjs
 - 💬 Ask me about javascript, react, figma
 - 📫 How to reach me: victoriajquinto@gmail.com
 - ⚡ Fun fact: I am a cookie connoisseur
